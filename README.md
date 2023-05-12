@@ -33,6 +33,7 @@ CTRL C
 }
  CTRL C
 
+
  15. Отправить сразу 2 файла на внешний репозиторий. : Git add . + git commit ( i + comment +esc :wq )  + git push
  16. На веб интерфейсе создать файл bug_report.json.  
  17. Сделать Commit changes (сохранить) изменения на веб интерфейсе. 
